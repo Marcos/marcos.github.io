@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thread safety and immutability"
-date:   2019-09-10
+date:   2019-08-10
 categories: java threads
 ---
 
