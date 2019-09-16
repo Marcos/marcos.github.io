@@ -5,7 +5,7 @@ date:   2019-09-16
 categories: java threads
 ---
 
-> This post are part of my notes notes abouth the book [Java Concurrency in Practice](http://jcip.net/). 
+> This post is part of my notes notes abouth the book [Java Concurrency in Practice](http://jcip.net/). 
 
 ### Nonatomic 64-bit Operations
 The JVM always requires reading and writing varibales to be atomic, but there is an exception for 64 bits variables, like double and long. On 64 bits variables, the JVM treats the read and write as two separate 32 bits operations. It implies that one thread could be reading a value different of the one written by another thread. There are two ways to ensure atomicity for mutable shared long and double variables, using a lock or declaring the variable as volatile.

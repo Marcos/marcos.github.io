@@ -5,7 +5,7 @@ date:   2019-08-10
 categories: java threads
 ---
 
-> This post are part of my notes notes abouth the book [Java Concurrency in Practice](http://jcip.net/). 
+> This post is part of my notes notes abouth the book [Java Concurrency in Practice](http://jcip.net/). 
 
 ### Thread Safety
 
