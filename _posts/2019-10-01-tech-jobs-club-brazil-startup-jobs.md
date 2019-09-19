@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Brazil Startup Jobs"
-date:   2018-10-01
+title:  "TechJobs.club (aka Brazil Startup Jobs)"
+date:   2019-10-01
 categories: brazil startup jobs
 ---
 
