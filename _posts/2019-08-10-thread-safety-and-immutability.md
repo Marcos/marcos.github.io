@@ -16,5 +16,6 @@ There are some types of concurrency errors: race condition, deadlock, livelock. 
 ### Immutability
 
 The cheapest way to  ensure thread safety is using immutable objects, because they have only one state, which is the initial state. There is no way in Java to formally declare an object as Immutable, so the programmer should be very careful, because even having all field as final, it still could hold a reference to an object that it is not immutable and could be changed after the construction of the object. An object is immutable when it can not be changed in any way after it is constructed.  
+
 It is also better to restrict as much as possible mutable fields. If one object is not totally immutable and has only one or two immutable fields, it still is better than having all fields as immutable fields. It is a good practice to use the final modifier as much as possible.
 If an object is immutable, it still could have inconsistency through threads if it is not safely published. One thread could visualize the object while it still is in construction, so it is necessary to ensure a safely initialisation for immutable objects: using volatile, AtomicReference, final fields or fields properly guarded by a lock.
