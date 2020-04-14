@@ -21,7 +21,7 @@
 title: Marcos' notes
 email: marcos.wp@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marcos.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  marcos
 linkedin_username: marcosroberto
 instagram_username: marcoswp3x
