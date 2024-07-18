@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Back to code - Aand how to install Java in 2024"
-date:   2024-08-18
+title:  "Back to code - And how to install Java in 2024"
+date:   2024-07-18
 categories: java programming golang
 ---
 
-# Back to code - Aand how to install Java in 2024
+# Back to code - And how to install Java in 2024
 
 I haven't been coding full time in the last three years. Working as Tech Manager, basicaly my coding activities were less than 10% of my working time, and considering I have my tech setup installed when I joined Mercado Livre, I haven't updated it very often.
 
