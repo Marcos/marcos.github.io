@@ -2,7 +2,7 @@
 layout: post
 title:  "Back to code - And how to install Java in 2024"
 date:   2024-07-18
-categories: java programming golang
+categories: java programming
 ---
 
 # Back to code - And how to install Java in 2024

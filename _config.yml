@@ -25,6 +25,9 @@ url: "https://marcos.github.io/" # the base hostname & protocol for your site, e
 github_username:  marcos
 linkedin_username: marcosroberto
 instagram_username: mwp3x
+twitter_username: mwp3x
+disqus:
+  shortname: mwp3x
 
 # Build settings
 plugins:
